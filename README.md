@@ -1,1 +1,2 @@
-# PADS4-Clients-Setup
+# PADS4 Clients Setup
+Configure PADS4 client applications
